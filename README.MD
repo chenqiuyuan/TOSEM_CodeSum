@@ -50,6 +50,6 @@ python ccpm.py evaluate --input_file --output_file
 We evaluate the BLEU and ROUGE using the package [nmt-eval](https://github.com/Maluuba/nlg-eval).
 
 Running
-"""
+```
 nlg-eval --hypothesis=examples/generated_comments.txt --references=examples/reference_comments.txt
-"""
+```
