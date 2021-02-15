@@ -1,7 +1,10 @@
-# TOSEM_CodeSum
+# Why My Code Summarization Model Does Not Work: Code Comment Improvement with Category Prediction. 
+## Published on TOSEM (CCF Rank A) 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4133474.svg)](https://doi.org/10.5281/zenodo.4133474)
 
-This repository is the accompanying repository for our paper "Why My Code Summarization Approach Does Not Work."
+This repository is the accompanying repository for our paper "Why My Code Summarization Model Does Not Work: Code Comment Improvement with Category Prediction"
+
+https://dl.acm.org/doi/abs/10.1145/3434280
 
 ## Requirements
 ```
@@ -84,6 +87,5 @@ Thanks!
 
 ## Reference
 
-[1] Qiuyuan Chen, Xin Xia, Han Hu, David Lo, and Shanping Li. 2021. Why My Code Summarization Model Does Not Work: Code Comment Improvement with Category Prediction. ACM Trans. Softw. Eng. Methodol. 30, 2 (2021), 1–29. DOI:https://doi.org/10.1145/3434280
-
+[1] Qiuyuan Chen, Xin Xia, Han Hu, David Lo, and Shanping Li, “Why My Code Summarization Model Does Not Work: Code Comment Improvement with Category Prediction,” ACM Trans. Softw. Eng. Methodol. (TOSEM), vol. 30, no. 2, pp. 1–29, 2021, DOI: https://doi.org/10.1145/3434280.
 
