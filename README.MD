@@ -55,3 +55,27 @@ Running
 ```
 nlg-eval --hypothesis=examples/generated_comments.txt --references=examples/reference_comments.txt
 ```
+
+
+## Citation
+If you use our dataset or you are inspired by our work, please consider citing our paper:
+
+```bib
+@article{10.1145/3434280,
+author = {Chen, Qiuyuan and Xia, Xin and Hu, Han and Lo, David and Li, Shanping},
+title = {Why My Code Summarization Model Does Not Work: Code Comment Improvement with Category Prediction},
+year = {2021},
+issue_date = {February 2021},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {30},
+number = {2},
+issn = {1049-331X},
+url = {https://doi.org/10.1145/3434280},
+doi = {10.1145/3434280},
+month = feb,
+articleno = {25},
+numpages = {29},
+keywords = {comment classification, code comment, Code summarization}
+}
+```
