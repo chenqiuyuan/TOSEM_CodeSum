@@ -6,6 +6,8 @@ This repository is the accompanying repository for our paper "Why My Code Summar
 
 https://dl.acm.org/doi/abs/10.1145/3434280
 
+The paper is accessed in [pdf](http://chenqiuyuan.com/TOSEM_Qiuyuan_Chen_2021_Why%20My%20Code%20Summarization%20Model%20Does%20Not%20Work.pdf)
+
 ## Requirements
 ```
 * Python3.7+
