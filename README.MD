@@ -36,12 +36,12 @@ The paper is accessed in [pdf](http://chenqiuyuan.com/TOSEM_Qiuyuan_Chen_2021_Wh
 ## Reproducing
 
 ### Train the code summarization models
-When training models, we use the code provided by [CodeNN](https://github.com/sriniiyer/codenn), [Code2Seq](https://github.com/tech-srl/code2seq), [DeepCom](https://github.com/xing-hu/EMSE-DeepCom), and [NNGenn](https://github.com/Tbabm/nngen).
+When training models, we use the code provided by [CodeNN](https://github.com/sriniiyer/codenn), [Code2Seq](https://github.com/tech-srl/code2seq), [DeepCom](https://github.com/xing-hu/EMSE-DeepCom), and [NNGen](https://github.com/Tbabm/nngen).
 
 These projects are all open-sourced.
 
-Please note that we re-design the pre-processing phase of Code2Seq to perform code summarization experiments. We provide the code in the same GoogleDrive url with the dataset. As training model is not feasible for every machine, we also provide our trained model.
-
+Please note that we re-design the pre-processing phase of Code2Seq to perform code summarization experiments.
+Please refer to this [issue](https://github.com/tech-srl/code2seq/issues/34).
 
 ### Comment category prediction
 We provide source code of comment category prediction. Please locate `ccpm.py` and run as instructions.
